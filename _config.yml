@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: pygments
-url: http://example.com
+highlighter: Gomex
+url: http://gomex.me
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
